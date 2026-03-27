@@ -1,0 +1,12 @@
+The Programmeerman License
+Copyright (c) [insert year here]-now [insert name here]
+
+1. Allowed usage
+a. You may use this software by executing.
+b. You may modify the code and distribute them or fork this, as long as you mention the original creator. (See line 2 for creator)
+c. You may share this.
+
+2. Prohibited usage
+a. You may not distribute modified versions if you pretend you are the original creator. This is also called illegal forking.
+
+End of the Programmeerman License
