@@ -9,5 +9,6 @@ c. You may share this.
 2. Prohibited usage
 a. You may not distribute modified versions if you pretend you are the original creator. This is also called illegal forking.
 b. You may not use the contents of the repo (name, code, files, even this license) in training of an AI model, unless with permission from the original creator.
+c. No warranty is covered, so the software is provided "as is".
 
 End of the Programmeerman License
